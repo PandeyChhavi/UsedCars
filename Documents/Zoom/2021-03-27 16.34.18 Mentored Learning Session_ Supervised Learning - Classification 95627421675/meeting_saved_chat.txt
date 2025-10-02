@@ -1,0 +1,12 @@
+15:04:22 From Scott Roskilly to Everyone : Sorry couple minutes late here!
+16:26:41 From Jordan Rich to Everyone : Log transformation and outlier treatment are two different things.. transformations are for normality
+16:27:48 From Shane McMillan to Everyone : still don't quite understand why log transformation is important for model building - ie why does it have to be normally distributed
+16:28:04 From Shane McMillan to Everyone : it = data = dependent variable
+16:28:13 From Rajib Kumar Das to Everyone : That was what I thought…log transformation for normality and viewing the data
+16:28:55 From Jordan Rich to Everyone : The residuals of the regression need to be normally distributed - that is an assumption of the model
+16:29:49 From Jason E Hewitt to Everyone : Thanks Jordan
+16:31:23 From Shane McMillan to Everyone : what is the actual math function of the log transformation of the data = looking for a formula online but only came across generic log functions
+16:32:05 From Jordan Rich to Everyone : np.log(data). Just takes the natural logarithm
+16:32:54 From Riddhi Bhatt to Everyone : You need to do a +1 if there are negative values.
+16:33:07 From Jordan Rich to Everyone : There’s another google transformer out there called the Box-Cox transformation. Look into that also. That can be very useful
+16:33:16 From Jordan Rich to Everyone : Good, not google

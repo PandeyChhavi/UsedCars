@@ -1,0 +1,19 @@
+14:14:59 From Vincent Taylor to Everyone : I purchased two very good resources 1) 2nd Edition Python Crash Course, 2) Code Walkthrough which comes with a supplemental e-book called 'Powerful Python' cost for both $54.00
+14:24:13 From Rajib Kumar Das to Everyone : I have a Mac and had issues installing pandas profiling through Anaconda. Instead use this through terminal : pip install https://github.com/pandas-profiling/pandas-profiling/archive/master.zip
+14:25:20 From Jordan Rich to Everyone : Does anyone on here have apple silicon?
+14:26:54 From Rajib Kumar Das to Everyone : I think does it matter as it seems “Developers can easily convert their existing apps to run on Apple silicon, taking advantage of its powerful technologies and performance. “
+14:27:58 From Jordan Rich to Everyone : I was going to say, I had to go through the arduous process of getting python and libraries up and running on the m1 Mac. So if anyone needs any tips or help with that, I’ve done it.
+14:30:28 From Rajib Kumar Das to Everyone : @Jordan…can we run the python codes in McBook Air M1….?
+14:32:43 From Jordan Rich to Everyone : Yes, but there is a lot of incompatibilities because of it being an ARM processor. I am running Miniforge for ARM which works alright, and it has ARM versions for all of the libraries I need. But Anaconda does not work. And Jupiter notebooks doesn’t work without doing a bunch of tweaking.
+14:33:24 From Rajib Kumar Das to Everyone : Wow!
+14:33:42 From Rajib Kumar Das to Everyone : Hopefully Anaconda comes with a new version soon
+14:34:38 From Jordan Rich to Everyone : 👍
+15:04:00 From Vincent Taylor to Everyone : Its a great site. I strongly suggest you subscript (join)
+15:04:14 From Vincent Taylor to Everyone : subscribe
+15:07:40 From Jordan Rich to Everyone : What’s your Kaggle ids? Im JordanRich
+15:08:10 From Vincent Taylor to Everyone : I believe its nupedoc79
+15:08:19 From Srinivasan Tirunelveli to Everyone : I don't have a profile but will create one 
+15:08:40 From Great Learning to Everyone : https://www.kaggle.com/umerkk12/titanic-dataset-eda-0-78
+15:11:15 From Jordan Rich to Everyone : If anyone wants to team up on a competition, I am interested. Just follow me or send me an email
+15:11:28 From Vincent Taylor to Everyone : @Jordan my id is Vincent TP
+16:40:14 From Mira Thakkar to Everyone : mthakkar84@gmail.com
